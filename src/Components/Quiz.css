@@ -1,0 +1,23 @@
+.questioninfo{
+    background-color: rgb(158, 222, 208);
+    text-align: left;
+    padding-left: 20px;
+}
+.btn{
+    background-color: rgb(118, 239, 118);
+    font-size: large;
+    
+}
+.btninfo{
+    padding: 20px;
+    padding-left: 70%;
+}
+p{
+    margin: 0%;
+}
+.border{
+    padding: 10px;
+}
+.questionout{
+    text-align: right;
+}

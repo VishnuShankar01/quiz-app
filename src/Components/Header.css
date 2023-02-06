@@ -1,0 +1,15 @@
+.header{
+    background-color: antiquewhite;
+    margin: auto;
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+.quesinfo{
+    padding-left: 20px;
+}
+.timeinfo{
+    padding-right: 70px;
+}
